@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a77a4c03-0cde-4d52-9f31-3d5476181877" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1szUHyP3ssPEVttBOwA0jiFOLxj" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.CreateClient2">
+    <configuration name="CreateClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreateClient" />
+      <module name="RSA2-0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateClient2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreateClient2" />
+      <module name="RSA2-0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="RSA2-0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StartServer" />
+      <module name="RSA2-0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CreateClient2" />
+        <item itemvalue="Application.CreateClient" />
+        <item itemvalue="Application.StartServer" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a77a4c03-0cde-4d52-9f31-3d5476181877" name="Default Changelist" comment="" />
+      <created>1621874827636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621874827636</updated>
+      <workItem from="1621874830588" duration="2887000" />
+      <workItem from="1621893065293" duration="7065000" />
+      <workItem from="1621928309382" duration="2049000" />
+      <workItem from="1622108316956" duration="1211000" />
+      <workItem from="1644244313598" duration="497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="145" key="GridCell.Tab.0.bottom" timestamp="1644244814575">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="145" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1644244814575" />
+    <state width="1493" height="145" key="GridCell.Tab.0.center" timestamp="1644244814575">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="145" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1644244814575" />
+    <state width="1493" height="145" key="GridCell.Tab.0.left" timestamp="1644244814575">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="145" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1644244814575" />
+    <state width="1493" height="145" key="GridCell.Tab.0.right" timestamp="1644244814575">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="145" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1644244814575" />
+  </component>
+</project>
